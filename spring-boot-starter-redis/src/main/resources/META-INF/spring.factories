@@ -1,0 +1,2 @@
+#其他项目可使用redis连接，报错jedis不存在的解决方式二，方式一是EnableRedis类实现
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.my.springboot.spring_boot_starter_redis.RedisCacheAspect
